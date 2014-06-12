@@ -1,0 +1,26 @@
+commit 4ee48261258fde6f14b2026cf1d26602de8732b3
+Author: Cameron <cameron.p.buckingham@gmail.com>
+Date:   Thu Jun 12 14:47:44 2014 -0600
+
+    hello.txt
+
+commit 81d479a42a20b13016a6f1c7446c660a23e4e3ea
+Author: Cameron <cameron.p.buckingham@gmail.com>
+Date:   Thu Jun 12 14:45:12 2014 -0600
+
+    hello.txt
+
+commit b5322cc139a0fad4998d17f3b076c1c13a5a563a
+Author: Cameron <cameron.p.buckingham@gmail.com>
+Date:   Thu Jun 12 14:39:27 2014 -0600
+
+    hello.txt
+
+commit 68e44e735d5af6efdc3a378f38f1eda972d8efe5
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
+Date:   Thu Jun 12 08:46:04 2014 -0600
+
+    Update README.md
+
+commit 57d4e09955d9a73a3a69b04bb83733296f6617ec
+Author: Jeff Taggart <jetaggart@users.noreply.github.com>
